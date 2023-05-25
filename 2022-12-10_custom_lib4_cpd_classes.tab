@@ -1,0 +1,136 @@
+order	cpd_name	class	rt	sample	match_score	abund	all_classes	formula	simple_cpd_name
+1	"(E)-4,8-Dimethylnona-1,3,7-triene"	terpene	1112.5	56			"terpene,alk"	C11H18	"(E)-4,8-Dimethylnona-1,3,7-triene"
+2	"(S)-3,3,6-Trimethylhepta-1,5-dien-4-yl acetate"	ester	1189.5	178	0.964680537	33927525.18	"ester,terpene"	C12H20O2	Artemisyl acetate
+3	.alpha.-Farnesene	terpene	1597	56			"terpene,alk"	C15H24	.alpha.-Farnesene
+4	.alpha.-Methylstyrene	aromatic	969	60	0.992901652	48312466.95	"benzene,aromatic,alk"	C9H10	.alpha.-Methylstyrene
+5	.alpha.-Pinene	terpene	889.5	43			"terpene,alk"	C10H16	.alpha.-Pinene
+6	.alpha.-Terpineol	terpene	1268	25	0.959066854	40256379.08	"terpene,alcohol"	C10H18O	.alpha.-Terpineol
+7	.beta.-Myrcene	terpene	947.5	56			"terpene,alk"	C10H16	.beta.-Myrcene
+8	.beta.-Ocimene	terpene	1025.5	49			"terpene,alk"	C10H16	.beta.-Ocimene
+9	.beta.-Pinene	terpene	954.5	45			"terpene,alk"	C10H16	.beta.-Pinene
+10	"1,3-Octadiene"	alk	709.5	108			alk	C8H14	"1,3-Octadiene"
+11	1-Butanol	alcohol	529.5	192	0.992589722	77816795.38	alcohol	C4H10O	1-Butanol
+12	"1-Butanol, 3-methyl-"	alcohol	629.5	13			alcohol	C5H12O	Isoamyl alcohol
+13	1-Decanol	alcohol	934	158	0.9767335	6135651.153	alcohol	C10H22O	1-Decanol
+14	1-Dodecanol	alcohol	1189.5	130	0.99024874	98169111.14	alcohol	C12H26O	1-Dodecanol
+15	1-Heptanol	alcohol	960	125	0.994036827	67025810.68	alcohol	C7H16O	1-Heptanol
+16	1-Hexanol	alcohol	823	11	0.993208684	76185479.81	alcohol	C6H14O	1-Hexanol
+17	"1-Hexanol, 2-ethyl-"	alcohol	1043	172	0.988348803	81687603.19	alcohol	C8H18O	2-Ethyl-1-hexanol
+18	"1H-Pyrrole, 2-methyl-"	NS	829.5	196	0.974372088	7774477.437	"nitrogen,pyrrole,aromatic"	C5H7N	2-Methyl-1H-pyrrole
+19	1-Nonene	alk	795.5	43			alk	C9H18	1-Nonene
+20	1-Octen-3-ol	alcohol	971.5	51	0.978777399	19577738.47	alcohol	C8H16O	1-Octen-3-ol
+21	1-Octene	alk	652	43	0.995004382	12832936.31	alk	C8H16	1-Octene
+22	1-Pentanol	alcohol	676	11			alcohol	C5H12O	1-Pentanol
+23	1-Penten-3-ol	alcohol	552.5	107			alcohol	C5H10O	1-Penten-3-ol
+24	"2(5H)-Furanone, 3-methyl-"	ester	1058.5	177	0.982711689	21151883.83	"lactone,ester"	C5H6O2	3-Methyl-2(5H)-furanone
+25	"2,3-Butanedione"	ketone	513	17	0.988380814	28849706.33	ketone	C4H6O2	"2,3-Butanedione"
+26	"2,4,6-Octatriene, 2,6-dimethyl-, (E,E)-"	terpene	1134.5	54			"terpene,alk"	C10H16	Alloocimene
+27	"2,6,6-Trimethyl-2-cyclohexene-1,4-dione"	ketone	1236	51	0.972980322	68744148.97	"ketone,terpene"	C9H12O2	Ketoisophorone
+28	2-Heptanone	ketone	851	124	0.992269804	34656086.87	ketone	C7H14O	2-Heptanone
+29	"2-Heptanone, 6-methyl-"	ketone	943	124	0.990019356	34538736.19	ketone	C8H16O	6-Methyl-2-heptanone
+30	"2-Heptenal, (E)-"	aldehyde	960	11	0.970925987	64376726.22	aldehyde	C7H12O	(E)-2-Heptenal
+31	2-Hexanone	ketone	703.5	17			ketone	C6H12O	2-Hexanone
+32	"2-Nonanone, 3-(hydroxymethyl)-"	ketone	1123.5	125	0.98103305	22664371.39	"ketone,alcohol"	C10H20O2	3-(Hydroxymethyl)-2-nonanone
+33	"2-Nonenal, (E)-"	aldehyde	1224.5	101	0.987521732	66017051.53	aldehyde	C9H16O	(E)-2-Nonenal
+34	2-Octanone	ketone	989	127	0.984685829	5993549.904	ketone	C8H16O	2-Octanone
+35	2-Oxepanone	ester	1294	89	0.975704694	18561918.35	"lactone,ester"	C6H10O2	2-Oxepanone
+36	2-Pentanone	ketone	552.5	105	0.991387712	10618790.41	ketone	C5H10O	2-Pentanone
+37	"2-Pentanone, 3-methyl-"	ketone	651	124	0.985984463	101592543	ketone	C6H12O	3-Methyl-2-pentanone
+38	"2-Propanol, 1,3-dichloro-"	other	934	19	0.992987553	25950521.28	other	C3H6Cl2O	"1,3-Dichloro-2-propanol"
+39	"2-Propanone, 1-hydroxy-"	ketone	563.5	21			"ketone,alcohol"	C3H6O2	Hydroxyacetone
+40	"2-Propenal, 3-phenyl-"	aromatic	1401.5	11	0.997925417	18776467.9	"benzene,aldehyde,aromatic"	C9H8O	Cinnamaldehyde
+41	"3,5-Octadien-2-ol"	alcohol	1066.5	84	0.96875228	24960551.74	alcohol	C8H14O	"3,5-Octadien-2-ol"
+42	3-Carene	terpene	885.5	56	0.975763214	96879525.53	"terpene,alk"	C10H16	3-Carene
+43	"3-Hexen-1-ol, (E)-"	alcohol	815	125	0.959727233	6878083.929	alcohol	C6H12O	3-Hexen-1-ol
+44	"3-Hexen-1-ol, acetate, (E)-"	ester	990	44			ester	C8H14O2	3-Hexenyl acetate
+45	3-Hexenal	aldehyde	716	50	0.982076293	12048373.26	aldehyde	C6H10O	3-Hexenal
+46	3-Octanone	ketone	979	106			ketone	C8H16O	3-Octanone
+47	3-Pentanone	ketone	564.5	13	0.989635055	40350526.56	ketone	C5H10O	3-Pentanone
+48	4-Cyanocyclohexene	NS	1081	3	0.994898176	39012793.3	nitrogen	C7H9N	4-Cyanocyclohexene
+49	"4-Nonanone, 2,6,8-trimethyl-"	ketone	1257.5	11	0.951474288	10229790.08	ketone	C12H24O	"2,6,8-Trimethyl-4-nonanone"
+50	"4-Nonenal, (E)-"	aldehyde	1127	30			aldehyde	C9H16O	(E)-4-Nonenal
+51	"5,9-Undecadien-2-one, 6,10-dimethyl-"	ketone	1569	120	0.996113378	137346449.2	"ketone,terpene"	C13H22O	Geranylacetone
+52	"5-Hepten-2-one, 6-methyl-"	ketone	983.5	63	0.988573754	100956561.3	"ketone,terpene"	C8H14O	Sulcatone
+53	Acetic acid	acid	503	7	0.986569984	87632154.31	acid	C2H4O2	Acetic acid
+54	"Acetic acid, butyl ester"	ester	715	104	0.994828649	103107260.7	ester	C6H12O2	Butyl acetate
+55	Acetoin	ketone	631.5	8	0.997827745	26416506.78	"ketone,alcohol"	C4H8O2	Acetoin
+56	Acetophenone	aromatic	1131.5	146	0.995098634	61782230.4	"benzene,ketone,aromatic"	C8H8O	Acetophenone
+57	Anethole	aromatic	1368.5	104	0.992335108	13211459.43	"benzene,ether,aromatic"	C10H12O	Anethole
+58	Benzaldehyde	aromatic	985	17	0.997880307	145988189.2	"benzene,aldehyde,aromatic"	C7H6O	Benzaldehyde
+59	Benzene	aromatic	502.5	184	0.998683587	64929018.04	"benzene,aromatic,alk"	C6H6	Benzene
+60	"Benzene, 1,2,3,4-tetramethyl-"	aromatic	1156	13	0.991199659	23247641.25	"benzene,aromatic"	C10H14	"1,2,3,4-Tetramethylbenzene"
+61	"Benzene, 1,3-dimethyl-"	aromatic	804	13	0.974150706	33959694.49	"benzene,aromatic,alk"	C8H10	m-Xylene
+62	Benzeneacetaldehyde	aromatic	1099	106	0.98991624	6600323.199	"benzene,aldehyde,aromatic"	C8H8O	Benzeneacetaldehyde
+63	Benzoic acid	aromatic	1281.5	162	0.998124916	23502934.64	"benzene,acid,aromatic"	C7H6O2	Benzoic acid
+64	Benzonitrile	NS	1034.5	81	0.998041507	68417407.53	"nitrogen,benzene,aromatic"	C7H5N	Benzonitrile
+65	Benzyl alcohol	aromatic	1098.5	158	0.998400869	188882703.7	"benzene,alcohol,aromatic"	C7H8O	Benzyl alcohol
+66	Benzyl Benzoate	aromatic	1571	178	0.982905937	30352816.01	"benzene,ester,aromatic"	C14H12O2	Benzyl benzoate
+67	"Butanal, 2-methyl-"	aldehyde	514	12	0.978183696	128143948.8	aldehyde	C5H10O	2-Methylbutanal
+68	"Butanal, 3-methyl-"	aldehyde	505	11	0.992551483	20648093.73	aldehyde	C5H10O	3-Methylbutanal
+69	Butanoic acid	acid	737	18			acid	C4H8O2	Butanoic acid
+70	"Butanoic acid, 3-methyl-"	acid	815	146	0.976920734	78274618.45	acid	C5H10O2	3-Methylbutanoic acid
+71	Camphene	terpene	914	56			"terpene,alk"	C10H16	Camphene
+72	Caryophyllene	terpene	1545.5	43			"terpene,alk"	C15H24	Caryophyllene
+73	"Cycloheptasiloxane, tetradecamethyl-"	other	1527	58	0.992685335	25598921.86	other	C14H42O7Si7	Tetradecamethylcycloheptasiloxane
+74	Cyclohexanone	ketone	891.5	57	0.988202489	51929903.13	ketone	C6H10O	Cyclohexanone
+75	"Cyclohexene, 1-methyl-4-(1-methylethylidene)-"	terpene	1092	43			terpene	C10H16	Terpinolene
+76	Cyclopentanone	ketone	731.5	177	0.995867105	17490941.44	ketone	C5H8O	Cyclopentanone
+77	"Cyclopentasiloxane, decamethyl-"	other	1113	5	0.998405724	58260452.37	other	C10H30O5Si5	Decamethylcyclopentasiloxane
+78	"Cyclotetrasiloxane, octamethyl-"	other	907.5	127	0.971435316	26958432.34	other	C8H24O4Si4	Octamethylcyclotetrasiloxane
+79	"Cyclotrisiloxane, hexamethyl-"	other	674.5	184	0.998379036	144418268.7	other	C6H18O3Si3	Hexamethylcyclotrisiloxane
+80	Decanal	aldehyde	1257.5	120	0.989508215	97974274.3	aldehyde	C10H20O	Decanal
+81	Dimethyl sulfone	NS	1015	131	0.999311683	49952728.04	sulphur	C2H6O2S	Dimethyl sulfone
+82	Dimethyl trisulfide	NS	980	64	0.982338425	18243615.77	sulphur	C2H6S3	Dimethyl trisulfide
+83	"Disulfide, dimethyl"	NS	630	105	0.969171235	102137497.9	sulphur	C2H6S2	Dimethyl disulfide
+84	D-Limonene	terpene	1017	97	0.995499766	252309019.5	"terpene,alk"	C10H16	Limonene
+86	Dodecane	alk	1195	19			alk	C12H26	Dodecane
+87	"Dodecane, 1-chloro-"	other	1561.5	6	0.99340174	70492262.28	other	C12H25Cl	1-Chlorododecane
+88	"Ethanol, 2-butoxy-"	alcohol	878	173	0.962051641	68721458.67	"alcohol,ether"	C6H14O2	2-Butoxyethanol
+89	"Ethanol, 2-phenoxy-"	aromatic	1336	118	0.990093864	62922789.38	"benzene,alcohol,ether,aromatic"	C8H10O2	2-Phenoxyethanol
+90	Ethylbenzene	aromatic	791.5	13	0.99576111	6584046.99	"benzene,aromatic,alk"	C8H10	Ethylbenzene
+91	"Formamide, N,N-dibutyl-"	NS	1426	94	0.98220481	12578754.77	nitrogen	C9H19NO	"N,N-Dibutylformamide"
+92	"Formamide, N,N-diethyl-"	NS	972	47			nitrogen	C5H11NO	"N,N-Diethylformamide"
+93	"Furan, 2-pentyl-"	aromatic	956	42	0.963684245	8837841.468	"furan,ether,aromatic"	C9H14O	2-Pentylfuran
+94	Furfural	aromatic	804.5	60	0.996099004	10362220.97	"furan,aldehyde,ether,aromatic"	C5H4O2	Furfural
+95	Germacrene D	terpene	1638	56			"terpene,alk"	C15H24	Germacrene D
+96	Heptanal	aldehyde	864	123	0.996446111	211968198.3	aldehyde	C7H14O	Heptanal
+97	Heptane	alk	515	170	0.965462793	38081037.71	alk	C7H16	Heptane
+98	Hexadecane	alk	1707.5	42			alk	C16H34	Hexadecane
+99	Hexanal	aldehyde	716	115	0.987520364	7265366.903	aldehyde	C6H12O	Hexanal
+100	"Hexanal, 2-ethyl-"	aldehyde	934	180	0.979270821	9288181.292	aldehyde	C8H16O	2-Ethylhexanal
+101	Hexanoic acid	acid	1002.5	57	0.993905038	41359811	acid	C6H12O2	Hexanoic acid
+102	"Hexasiloxane, tetradecamethyl-"	other	1393.5	118	0.993647679	18981878.97	other	C14H42O5Si6	Tetradecamethylhexasiloxane
+103	Humulene	terpene	1596	54			"terpene,alk"	C15H24	Humulene
+104	Indole	NS	1479.5	17	0.995935248	83107837.68	"pyrrole,benzene,nitrogen,aromatic"	C8H7N	Indole
+105	Isopropyl myristate	ester	1523	62			ester	C17H34O2	Isopropyl myristate
+106	Linalool	terpene	1127	49			"terpene,alcohol"	C10H18O	Linalool
+107	"Mercaptoethanol, 2TMS derivative"	other	1319.5	71			other	C8H22OSSi2	"Mercaptoethanol, 2TMS derivative"
+108	"Methane, bromodichloro-"	other	582.5	56	0.988858401	14265202.49	other	CHBrCl2	Bromodichloromethane
+109	"Methane, dibromochloro-"	other	724	53			other	CHBr2Cl	Chlorodibromomethane
+110	Methyl methacrylate	ester	564.5	64	0.989528697	64486130.73	ester	C5H8O2	Methyl methacrylate
+111	Methyl salicylate	aromatic	1279	5	0.988543899	18750252.98	"benzene,ester,alcohol,aromatic"	C8H8O3	Methyl salicylate
+112	Naphthalene	aromatic	1277.5	19	0.98302354	10454365.93	"benzene,aromatic,alk"	C10H8	Naphthalene
+113	n-Butyl methacrylate	ester	948	59			ester	C8H14O2	Butyl methacrylate
+114	Nonanal	aldehyde	1133.5	179	0.995809918	154098510.5	aldehyde	C9H18O	Nonanal
+115	Nonane	alk	800	40	0.974030482	6441384.893	alk	C9H20	Nonane
+116	Octanal	aldehyde	1004	168	0.996151947	113553093.6	aldehyde	C8H16O	Octanal
+117	Octane	alk	658.5	168	0.985229646	14296499.83	alk	C8H18	Octane
+118	o-Cymene	terpene	1102	3	0.957554747	8211760.031	"terpene,benzene,aromatic,alk"	C10H14	o-Cymene
+119	p-Cresol	aromatic	1174	172	0.995750319	91052063.04	"benzene,alcohol,aromatic"	C7H8O	p-Cresol
+120	p-Cymene	terpene	1020.5	6	0.986017933	28503664.66	"terpene,benzene,aromatic,alk"	C10H14	p-Cymene
+121	Pentadecane	alk	1550	32			alk	C15H32	Pentadecane
+122	Pentanal	aldehyde	565	84	0.992560122	42873557.71	aldehyde	C5H10O	Pentanal
+123	Pentanoic acid	acid	871.5	94	0.988479782	6065559.413	acid	C5H10O2	Pentanoic acid
+124	Phenol	aromatic	1062	105	0.996145115	82318972.32	"benzene,alcohol,aromatic"	C6H6O	Phenol
+125	"Phenol, 2,4,6-tris(1-methylethyl)-"	aromatic	1658.5	130	0.983176438	24362068.16	"benzene,alcohol,aromatic"	C15H24O	"2,4,6-Triisopropylphenol"
+126	Phenylethyl Alcohol	aromatic	1202	12	0.996951729	77495603.27	"benzene,alcohol,aromatic"	C8H10O	2-Phenylethanol
+127	Propanoic acid	acid	613	172	0.983494774	43332089.28	acid	C3H6O2	Propanoic acid
+128	Quinoline	NS	1359	13			"benzene,nitrogen,aromatic"	C9H7N	Quinoline
+129	Styrene	aromatic	847	13	0.97979356	112520918.2	"benzene,aromatic,alk"	C8H8	Styrene
+130	Tetrachloroethylene	other	705	3	0.99695444	37226209.46	other	C2Cl4	Tetrachloroethylene
+131	Tetradecane	alk	1420	177	0.994048534	187803710.4	alk	C14H30	Tetradecane
+132	Toluene	aromatic	654.5	40	0.998391055	29964540.42	"benzene,aromatic,alk"	C7H8	Toluene
+133	Tridecane	alk	1308	140	0.964082814	15583008.35	alk	C13H28	Tridecane
+135	Undecanal	aldehyde	1371.5	168	0.987853818	33638529.34	aldehyde	C11H22O	Undecanal
+136	Undecane	alk	943	158	0.982839783	13543127.67	alk	C11H24	Undecane
+137	Ylangene	terpene	1459.5	44			"terpene,alk"	C15H24	Ylangene

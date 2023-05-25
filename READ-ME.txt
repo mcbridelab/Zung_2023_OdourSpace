@@ -1,0 +1,33 @@
+2023-01-30
+Jessica Zung
+
+For analysis of GC-MS data, using JLZ's library of compounds (2023)
+
+==================================================================
+Quick start:
+You need to convert your files from Agilent's .D format to .mzdata.xml. You can do this in the Agilent MassHunter Qualitative Analysis Navigator program. In the "Method Editor" panel (usually bottom left), go to Method Automation > Export. Select the "MzData" option and export.
+
+Then, see the 'easy_start.R' script to generate barplots and a matrix of compound abundances across samples.
+
+==================================================================
+For more customization:
+Use 'example_analysis_pipeline.R' as a template to set some additional options (e.g., blank subtraction, matrix reordering). For even more customization, advanced users may make a copy of 'analysis_functions.R' and modify as needed.
+
+==================================================================
+Notes:
+It is *highly* recommended that you first get a sense for your data by manually browsing using Agilent's Qualitative Navigator or similar. This program was custom-designed for use with JLZ's data and can easily give inaccurate results if, for example, retention times have changed or concentration is high enough that the MS signal saturates.
+
+Library retention times assume a 30m DB-624 column on the McBride lab GC-MS. You may need to adjust these retention times manually, as these can drift over time (e.g., as the column ages or is replaced). The script has some capability to adjust for small retention-time shifts; XCMS does some RT alignment across samples, and finetune_RTs() allows for some slop in library RTs compared to sample RTs.
+
+This program will not estimate the abundance of any compounds that are not in the user-defined library.
+
+This script has been tested with the following R/package versions:
+R version 3.6.1
+xcms 3.6.2
+magrittr 2.0.1
+highcharter 0.9.4
+pracma 2.4.2
+plyr 1.8.6
+lsa 0.73.3
+reshape2 1.4.4
+htmlwidgets 1.5.4
